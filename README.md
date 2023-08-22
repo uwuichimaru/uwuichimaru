@@ -8,7 +8,7 @@
 
 # <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About Me:
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Java Script & Type Script**
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like programming **pragramming**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like **pragramming**
 - <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"> Pronouns: **He/Him**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **islammirzabekov228@gmail.com**
 
